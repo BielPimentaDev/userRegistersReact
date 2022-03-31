@@ -1,0 +1,13 @@
+header{
+    background-color: #52BCE9;
+    color: white;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+
+header h1{
+    text-transform: uppercase;
+}
